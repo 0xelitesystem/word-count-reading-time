@@ -63,4 +63,4 @@ MIT.
 
 - [url-parser-and-query-editor](https://github.com/0xelitesystem/url-parser-and-query-editor), break a URL into parts and edit query params
 - [hex-rgb-hsl-hsv-converter](https://github.com/0xelitesystem/hex-rgb-hsl-hsv-converter), convert between HEX, RGB, HSL, and HSV
-- [percentage-calculator](https://github.com/0xelitesystem/percentage-calculator), four common percentage questions in one place
+- [four-percentage-questions](https://github.com/0xelitesystem/four-percentage-questions), four common percentage questions in one place
