@@ -1,8 +1,8 @@
-# Word and Character Counter
+# Word Count and Reading Time
 
 Paste text and get a live count of words, characters, sentences, paragraphs, and reading time. No server, no tracking, no third-party scripts.
 
-**Live demo:** https://0xelitesystem.github.io/word-and-character-counter/
+**Live demo:** https://0xelitesystem.github.io/word-count-reading-time/
 
 ## Use
 
@@ -30,8 +30,8 @@ Everything runs in your browser. The text you paste never leaves your machine. V
 ## Run locally
 
 ```bash
-git clone https://github.com/0xelitesystem/word-and-character-counter
-cd word-and-character-counter
+git clone https://github.com/0xelitesystem/word-count-reading-time
+cd word-count-reading-time
 # Open index.html in your browser, or:
 python -m http.server 8000
 ```
